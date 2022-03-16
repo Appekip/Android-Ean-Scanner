@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Skannaus</string>
+    <string name="historia">Historia</string>
+    <string name="skanneri">Skanneri</string>
+    <string name="no_barcode_detected">no_barcode_detected</string>
+    <string name="s_ryhm">S-ryhmä</string>
+    <string name="k_kauppa">K-kauppa</string>
+</resources>
